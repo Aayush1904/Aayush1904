@@ -77,13 +77,6 @@ I have also completed an in-house project for PICT, which is for the canteen, un
 
   </div>
 
-### CodeChef
-<div align="center">
-
-![CodeChef Stats](https://codechef-stats.vercel.app/api/competitions?username=aayuagrawal194&theme=auto)
-
-</div>
-
 \<details>
   <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   <p>
