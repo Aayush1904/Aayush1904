@@ -1,96 +1,247 @@
-<h1 align="center">Hi<img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Aayush Agrawal</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  MERN ,Fullstack Developer
-  <a href="js-portfolio-kappa.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
 <div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aayush+Agrawal;Full+Stack+Developer;MERN+Stack+Enthusiast;Python+%26+ML+Learner;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aayush1904&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://js-portfolio-kappa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:asagrawal612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-I am a dedicated Full Stack Web Developer with a passion for creating dynamic, responsive applications, and I have been doing this for one year.
+<br/>
 
-I have also used many UI tools like, Shadcn UI, Sentry for bug reporting, Stripe for payment transactions, and Clerk for authentication.
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400" height="300"/>
+</div>
 
-Currently, I am expanding my expertise in Python for machine learning, utilizing powerful libraries like Pandas, NumPy, and Matplotlib. Additionally, I am enhancing my skills in Java and Data Structures & Algorithms to further bolster my technical proficiency and problem-solving capabilities.
+---
 
-I have also completed an in-house project for PICT, which is for the canteen, under the guidance of Vaishali Kandekar ma'am.
+## 🚀 About Me
 
-Aspiring for a challenging carrer in Software Development as to use my learned skills and experience 
-for best results .
+```javascript
+const aayush = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "Python", "Java", "C++"],
+  askMeAbout: [
+    "Web Development",
+    "Machine Learning",
+    "Data Structures",
+    "Algorithms",
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "TypeScript"],
+      css: ["Tailwind CSS", "Shadcn UI", "Material-UI"],
+    },
+    backEnd: {
+      js: ["Node.js", "Express.js"],
+      python: ["FastAPI", "Django", "Flask"],
+      databases: ["MongoDB", "PostgreSQL", "Redis"],
+    },
+    tools: ["Git", "Docker", "AWS", "Vercel", "Stripe", "Clerk", "Sentry"],
+    ml: ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
+  },
+  currentFocus: "Expanding ML expertise and DSA skills",
+  funFact:
+    "I love building full-stack applications and solving complex problems!",
+};
+```
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Institution                                      | Degree                  | GPA        | Status      |
+| ------------------------------------------------ | ----------------------- | ---------- | ----------- |
+| **Pune Institute of Computer Technology (PICT)** | Bachelor of Engineering | **9.6/10** | 🎓 Pursuing |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Services
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+### Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush1904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush1904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush1904&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/Aayush1905?theme=tokyonight&font=baloo&extension=null" alt="LeetCode Stats" />
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/Aayush1904/Aayush1904/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
+<summary><h3>📧 Real-time Email Application</h3></summary>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BE-PICT-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-9.6-EFEEE9?style=for-the-badge"></span>
- </details>
+**Tech Stack:** Node.js, MongoDB, WebSocket, React
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - Student : MERN Stack Developer
-    - Currently, I am expanding my expertise in Python for machine learning, utilizing powerful libraries like Pandas, NumPy, and Matplotlib. Additionally, I am enhancing my skills in Java and Data Structures & Algorithms to further bolster my technical proficiency and problem-solving capabilities.
+- ✅ Implemented real-time email fetching directly to web application
+- ✅ Built with WebSocket for instant updates
+- ✅ Modern UI with responsive design
 
-I have also completed an in-house project for PICT, which is for the canteen, under the guidance of Vaishali Kandekar ma'am.
- </details>
-</details>
-<details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Aayush1905/)
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/YourUsername/YourRepo/blob/main/path/to/your/image.gif?raw=true" width="29"/> Tech Stack</h4></summary>
-  ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<summary><h3>🎬 Netflix Recommendation System</h3></summary>
+
+**Tech Stack:** Python, Web Scraping, Data Analysis
+
+- ✅ Created recommendation system without machine learning
+- ✅ Implemented web scraping for data collection
+- ✅ Built intelligent filtering algorithms
+
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+<summary><h3>🏫 PICT Canteen Management System</h3></summary>
 
-  #### <a href="https://github.com/Aayush1904/[Project-Name]">[Project Name]</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
-  - Implemented Email App Which fetch emails directly to your web app real time.
-  - Implemented Netflix Recommendation System without Machine Leraning by Web Scrapping.
-  - Implemented Inhouse Project For Pict for Canteen Management System.
-  - Implemented Full Stack Ecommerce Website for farmers.
-  - Implemented AImage for INC PICT.
-</details>
+**Tech Stack:** Full Stack Web Application
 
+- ✅ In-house project for Pune Institute of Computer Technology
+- ✅ Complete canteen management solution
+- ✅ Developed under guidance of Prof. Vaishali Kandekar
 
-  ### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/Aayush1905?theme=auto&font=baloo&extension=null)
-
-  </div>
-
-\<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:asagrawal612@gmail.com">
-      <img align="center" src="https://github.com/Aayush1904/Aayush1904/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
 </details>
 
 <details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card"/>
-  </div>
+<summary><h3>🌾 Farmer's E-commerce Platform</h3></summary>
+
+**Tech Stack:** MERN Stack, Payment Integration
+
+- ✅ Full-stack e-commerce website for farmers
+- ✅ Integrated payment systems
+- ✅ Modern, responsive design
+
 </details>
 
+<details>
+<summary><h3>🖼️ AImage for INC PICT</h3></summary>
+
+**Tech Stack:** Image Processing, Web Application
+
+- ✅ Image processing and management system
+- ✅ Built for INC PICT organization
+- ✅ Advanced image manipulation features
+
+</details>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush1904&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area                             | Status       | Progress                                           |
+| -------------------------------- | ------------ | -------------------------------------------------- |
+| **Machine Learning**             | 🔥 Learning  | Expanding expertise with Pandas, NumPy, Matplotlib |
+| **Data Structures & Algorithms** | 📚 Studying  | Enhancing problem-solving skills                   |
+| **Java Development**             | 🚀 Improving | Building stronger foundation                       |
+| **Full Stack Development**       | 💪 Mastering | Advanced MERN stack applications                   |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://js-portfolio-kappa.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush1904)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Aayush1905/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asagrawal612@gmail.com)
+
+</div>
+
+---
+
+## 💡 Fun Fact
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+  <i>Thanks for visiting! 😊</i>
+</div>
