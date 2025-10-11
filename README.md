@@ -59,7 +59,7 @@ const aayush = {
 
 | Institution                                      | Degree                  | GPA        | Status      |
 | ------------------------------------------------ | ----------------------- | ---------- | ----------- |
-| **Pune Institute of Computer Technology (PICT)** | Bachelor of Engineering | **9.6/10** | 🎓 Pursuing |
+| **Pune Institute of Computer Technology (PICT)** | Bachelor of Engineering | **9.33/10** | 🎓 Pursuing |
 
 </div>
 
@@ -131,65 +131,6 @@ const aayush = {
 <div align="center">
   <img src="https://leetcode.card.workers.dev/Aayush1905?theme=tokyonight&font=baloo&extension=null" alt="LeetCode Stats" />
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><h3>📧 Real-time Email Application</h3></summary>
-
-**Tech Stack:** Node.js, MongoDB, WebSocket, React
-
-- ✅ Implemented real-time email fetching directly to web application
-- ✅ Built with WebSocket for instant updates
-- ✅ Modern UI with responsive design
-
-</details>
-
-<details>
-<summary><h3>🎬 Netflix Recommendation System</h3></summary>
-
-**Tech Stack:** Python, Web Scraping, Data Analysis
-
-- ✅ Created recommendation system without machine learning
-- ✅ Implemented web scraping for data collection
-- ✅ Built intelligent filtering algorithms
-
-</details>
-
-<details>
-<summary><h3>🏫 PICT Canteen Management System</h3></summary>
-
-**Tech Stack:** Full Stack Web Application
-
-- ✅ In-house project for Pune Institute of Computer Technology
-- ✅ Complete canteen management solution
-- ✅ Developed under guidance of Prof. Vaishali Kandekar
-
-</details>
-
-<details>
-<summary><h3>🌾 Farmer's E-commerce Platform</h3></summary>
-
-**Tech Stack:** MERN Stack, Payment Integration
-
-- ✅ Full-stack e-commerce website for farmers
-- ✅ Integrated payment systems
-- ✅ Modern, responsive design
-
-</details>
-
-<details>
-<summary><h3>🖼️ AImage for INC PICT</h3></summary>
-
-**Tech Stack:** Image Processing, Web Application
-
-- ✅ Image processing and management system
-- ✅ Built for INC PICT organization
-- ✅ Advanced image manipulation features
-
-</details>
 
 ---
 
