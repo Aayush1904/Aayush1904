@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayush1904&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://aayush-portfolio-ag.app">
+  <a href="https://aayush-portfolio-ag.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:asagrawal612@gmail.com">
